@@ -45,37 +45,37 @@ const peliculaCards = [
   {
     image: '91mtjGvPTvL._AC_UF894,1000_QL80_.jpg',
     character: 'El Hobbit un viaje inesperado',
-    text: 'La primera película de la trilogía del Hobbit.',
+    text: ' Bilbo Bolsón, un hobbit tranquilo, se une a un grupo de enanos liderados por Thorin Escudo de Roble en una misión para reclamar su hogar perdido en la Montaña Solitaria y su tesoro, custodiado por el dragón Smaug. En su viaje, Bilbo encuentra el Anillo Único y comienza su transformación de un simple hobbit en un héroe inesperado.',
     btn: 'Click para ver',
   },
   {
     image: '30e1f18cec0cef39c6f2333d133dcd44.jpg',
     character: 'El Hobbit la desolacion de smaug',
-    text: 'La segunda película de la trilogía del Hobbit.',
+    text: 'Bilbo y los enanos continúan su viaje hacia la Montaña Solitaria, enfrentándose a peligros como los Elfos del Bosque Negro y las huestes de orcos. Bilbo se adentra en la guarida del dragón Smaug y toma una gema preciosa llamada Arkenstone, mientras Thorin lucha con la codicia y el deseo de recuperar su reino.',
     btn: 'Click para ver',
   },
   {
     image: 'hobb_qk1m.jpg',
     character: 'El Hobbit la batalla de los 5 ejercitos',
-    text: 'Gus es un empresario de la droga y dueño de la cadena de restaurantes de pollo frito "Los Pollos Hermanos", que utiliza como fachada para sus actividades criminales. Es conocido por su apariencia impecable, su naturaleza calculadora y su capacidad para ocultar su verdadera naturaleza bajo una fachada de respetabilidad. ',
+    text: 'Con el dragón Smaug derrotado, las diversas facciones de la Tierra Media se reúnen para reclamar el tesoro de la Montaña Solitaria. La disputa lleva a una gran batalla entre cinco ejércitos: hombres, elfos, enanos, orcos y wargs. Bilbo, atrapado en medio del conflicto, busca la paz y la reconciliación mientras la Tierra Media enfrenta una gran amenaza. ',
     btn: 'Click para ver'
 },
 {
   image: 'El_seanor_de_los_anillos_La_comunidad_del_anillo-952398002-large.jpg',
   character: 'El Señor de los anillos la comunidad del amillo',
-  text: 'Gus es un empresario de la droga y dueño de la cadena de restaurantes de pollo frito "Los Pollos Hermanos", que utiliza como fachada para sus actividades criminales. Es conocido por su apariencia impecable, su naturaleza calculadora y su capacidad para ocultar su verdadera naturaleza bajo una fachada de respetabilidad. ',
+  text: ' En la Tierra Media, un joven hobbit llamado Frodo Bolsón hereda un anillo con el poder de dominar a todos los seres. Con la ayuda de una comunidad formada por humanos, elfos, enanos y otros hobbits, Frodo emprende un peligroso viaje para destruir el anillo en el Monte del Destino y evitar que el oscuro señor Sauron recupere su poder.", que utiliza como fachada para sus actividades criminales. Es conocido por su apariencia impecable, su naturaleza calculadora y su capacidad para ocultar su verdadera naturaleza bajo una fachada de respetabilidad. ',
   btn: 'Click para ver'
 },
 {
 image: 'El_seanor_de_los_anillos_Las_dos_torres-450612576-large.jpg',
 character: 'El Señor de los anillos las dos torres',
-text: 'Gus es un empresario de la droga y dueño de la cadena de restaurantes de pollo frito "Los Pollos Hermanos", que utiliza como fachada para sus actividades criminales. Es conocido por su apariencia impecable, su naturaleza calculadora y su capacidad para ocultar su verdadera naturaleza bajo una fachada de respetabilidad. ',
+text: 'La comunidad se ha disuelto y Frodo y Sam continúan su viaje hacia Mordor, guiados por Gollum, el antiguo portador del anillo. Mientras tanto, Aragorn, Legolas y Gimli luchan contra las fuerzas de Sauron y ayudan a defender el reino de Rohan contra el ejército de Saruman, otro hechicero oscuro ',
 btn: 'Click para ver'
 },
 {
 image: '71EVuWC5i0L._AC_UF894,1000_QL80_.jpg',
 character: 'El Señor de los anillos el retorno del rey',
-text: 'Gus es un empresario de la droga y dueño de la cadena de restaurantes de pollo frito "Los Pollos Hermanos", que utiliza como fachada para sus actividades criminales. Es conocido por su apariencia impecable, su naturaleza calculadora y su capacidad para ocultar su verdadera naturaleza bajo una fachada de respetabilidad. ',
+text: 'Frodo y Sam se acercan a Mordor para destruir el anillo, enfrentándose a desafíos crecientes. Aragorn, Legolas y Gimli se preparan para una última batalla épica para liberar la Tierra Media del dominio de Sauron. La batalla final en el campo de los campos de Pelennor y la destrucción del anillo marcan el fin de la era oscura. ',
 btn: 'Click para ver'
 },
 ];
